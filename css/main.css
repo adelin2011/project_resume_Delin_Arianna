@@ -16,3 +16,16 @@
 	padding-top: 30px; 
 	padding-bottom: 30px;
 }
+
+#work, h2{
+	font-size: 2em; 
+}
+
+#work, ul, h3{
+	padding-top: 30px;
+	font-size: 1em; 
+}
+
+#work, ul, li{
+	padding-left: 60px; 
+}
