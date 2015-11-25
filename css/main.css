@@ -65,3 +65,30 @@ article{
 #contact, p{
 	padding-left: 60px; 
 }
+
+#skills{
+	padding-top: 30px; 
+	padding-bottom: 30px;
+}
+
+#skills, h3{
+	padding-top: 20px;
+	font-size: 1em;
+}
+
+#skills2{
+	font-size: 1em; 
+}
+
+#skills3{
+	font-size: 1em; 
+}
+
+aside{
+	padding-top: 60px; 
+	padding-bottom: 20px; 
+}
+
+aside, p {
+	padding-bottom: 20px; 
+}
