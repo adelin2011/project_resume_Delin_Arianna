@@ -51,3 +51,17 @@
 article{
 	text-align: center; 
 }
+
+#contact{
+	padding-top: 30px; 
+	padding-bottom: 30px;
+}
+
+#contact, h3 {
+	padding-top: 20px;
+	font-size: 1em;
+}
+
+#contact, p{
+	padding-left: 60px; 
+}
