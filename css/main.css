@@ -1,42 +1,42 @@
 *{
-	margin: 0; 
+	margin: 0;
 	padding: 0;
-	border: 0; 
+	border: 0;
 }
 
 #container{
 	margin: auto;
-	padding-left: 20px; 
-	padding-top: 20px; 
-	padding-right: 35px; 
-	padding-bottom: 20px; 
+	padding-left: 20px;
+	padding-top: 20px;
+	padding-right: 35px;
+	padding-bottom: 20px;
 }
 
 #work{
-	padding-top: 30px; 
+	padding-top: 30px;
 	padding-bottom: 30px;
 }
 
 #work, h2{
-	font-size: 2em; 
+	font-size: 2em;
 }
 
 #work, ul, h3{
 	padding-top: 20px;
-	font-size: 1em; 
+	font-size: 1em;
 }
 
 #work, ul, li{
-	padding-left: 60px; 
+	padding-left: 60px;
 }
 
 #education{
-	padding-top: 30px; 
+	padding-top: 30px;
 	padding-bottom: 30px;
 }
 
 #education, h2{
-	font-size: 2em; 
+	font-size: 2em;
 }
 
 #education, ul, h3{
@@ -45,15 +45,15 @@
 }
 
 #education, ul, li{
-	padding-left: 60px; 
+	padding-left: 60px;
 }
 
 article{
-	text-align: center; 
+	text-align: center;
 }
 
 #contact{
-	padding-top: 30px; 
+	padding-top: 30px;
 	padding-bottom: 30px;
 }
 
@@ -63,11 +63,11 @@ article{
 }
 
 #contact, p{
-	padding-left: 60px; 
+	padding-left: 60px;
 }
 
 #skills{
-	padding-top: 30px; 
+	padding-top: 30px;
 	padding-bottom: 30px;
 }
 
@@ -77,18 +77,19 @@ article{
 }
 
 #skills2{
-	font-size: 1em; 
+	font-size: 1em;
 }
 
 #skills3{
-	font-size: 1em; 
+	font-size: 1em;
 }
 
 aside{
-	padding-top: 60px; 
-	padding-bottom: 20px; 
+	padding-top: 60px;
+	padding-bottom: 20px;
+	background-color: #ADD8E6;
 }
 
 aside, p {
-	padding-bottom: 20px; 
+	padding-bottom: 20px;
 }
