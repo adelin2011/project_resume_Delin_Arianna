@@ -4,6 +4,10 @@
 	border: 0;
 }
 
+article{
+	text-align: center;
+}
+
 #container{
 	margin: auto;
 	padding-left: 20px;
@@ -48,10 +52,6 @@
 	padding-left: 60px;
 }
 
-article{
-	text-align: center;
-}
-
 #contact{
 	padding-top: 30px;
 	padding-bottom: 30px;
@@ -82,12 +82,6 @@ article{
 
 #skills3{
 	font-size: 1em;
-}
-
-aside{
-	padding-top: 60px;
-	padding-bottom: 20px;
-	background-color: #ADD8E6;
 }
 
 aside, p {
