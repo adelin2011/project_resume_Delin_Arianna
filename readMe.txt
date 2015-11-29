@@ -3,6 +3,6 @@ JQuery Plugins
 	http://www.frescojs.com/
 		This plugin is a responsive lightbox. I used it on the image on the top of the resume. 
 
-	Scroll Up
-	https://markgoodyear.com/2013/01/scrollup-jquery-plugin/
-		This plugin creates a "scroll to top" button. 
+	Textillate
+	http://jschr.github.io/textillate/
+		This plugin creates a CSS animation for text. I used it on the headlines in the document.  
