@@ -80,3 +80,8 @@ h2{
 aside, p {
 	padding-bottom: 20px;
 }
+
+.testimonial {
+	background-color: #B0E0E6;
+	padding-top: 5px;
+}
