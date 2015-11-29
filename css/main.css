@@ -4,6 +4,12 @@
 	border: 0;
 }
 
+@media (min-width: 472px){
+	article {
+		font-size: 60%;
+	}
+}
+
 article{
 	text-align: center;
 	margin-bottom: 60px; 
@@ -60,6 +66,12 @@ h2{
 	padding-left: 60px;
 }
 
+@media (min-width: 730px){
+	#skills2, #skills3 {
+		display: inline;
+	}
+}
+
 #skills{
 	padding-top: 30px;
 	padding-bottom: 30px;
@@ -79,7 +91,7 @@ h2{
 
 @media (min-width: 931px){
 	aside {
-		80%;
+		background-color: #D8BFD8;
 	}
 }
 
