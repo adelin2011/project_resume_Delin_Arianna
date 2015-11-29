@@ -77,6 +77,12 @@ h2{
 	font-size: 1em;
 }
 
+@media (min-width: 931px){
+	aside {
+		80%;
+	}
+}
+
 aside, p {
 	padding-bottom: 20px;
 	padding-right: 30px; 
