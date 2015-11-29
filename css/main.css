@@ -16,13 +16,14 @@ article{
 	padding-bottom: 20px;
 }
 
+h2{
+	color: #00008B;
+	font-size: 20px; 
+}
+
 #work{
 	padding-top: 30px;
 	padding-bottom: 30px;
-}
-
-#work, h2{
-	font-size: 2em;
 }
 
 #work, ul, h3{
@@ -39,10 +40,6 @@ article{
 	padding-bottom: 30px;
 }
 
-#education, h2{
-	font-size: 2em;
-}
-
 #education, ul, h3{
 	padding-top: 20px;
 	font-size: 1em;
@@ -57,11 +54,6 @@ article{
 	padding-bottom: 30px;
 }
 
-#contact, h3 {
-	padding-top: 20px;
-	font-size: 1em;
-}
-
 #contact, p{
 	padding-left: 60px;
 }
@@ -69,11 +61,6 @@ article{
 #skills{
 	padding-top: 30px;
 	padding-bottom: 30px;
-}
-
-#skills, h3{
-	padding-top: 20px;
-	font-size: 1em;
 }
 
 #skills2{
