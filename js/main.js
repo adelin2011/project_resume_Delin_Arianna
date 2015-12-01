@@ -1,6 +1,5 @@
 $(function () {
 	$('.tlt').textillate(
-		{in: {effect:"fadeInUp"} 
-		{out:{effect:"fadeOutDown"} 
+		{in: {effect:'fadeInUp'} 
 	});
 })
