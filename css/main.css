@@ -80,9 +80,9 @@ h2{
 	padding-left: 60px;
 }
 
-@media (min-width: 730px){
+@media (min-width: 710px){
 	#skills2, #skills3 {
-		display: inline;
+		width:70%;
 	}
 }
 
@@ -91,16 +91,26 @@ h2{
 	padding-bottom: 30px;
 }
 
+#skills, h3{
+	margin-left: -50px;
+}
+
 #skills_head {
-	padding-left: 50px; 
+	margin-left: 90px; 
 }
 
 #skills2{
 	font-size: 1em;
+	margin-left: 90px;
 }
 
 #skills3{
 	font-size: 1em;
+	margin-left: 90px;
+}
+
+#skills, li{
+	margin-left: -30px;
 }
 
 @media (min-width: 931px){
