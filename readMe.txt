@@ -3,6 +3,8 @@ https://github.com/adelin2011/project_resume_Delin_Arianna
 [Github] (https://github.com/adelin2011/project_resume_Delin_Arianna)
 
 URL
+http://aridelin.com/project_resume_Delin_Arianna/
+[GoDaddy] (http://aridelin.com/project_resume_Delin_Arianna/)
 
 JQuery Plugins
 	http://www.frescojs.com/
